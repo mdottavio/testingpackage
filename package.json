@@ -1,6 +1,6 @@
 {
   "name": "testingpackage",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "just a testing package",
   "main": "index.js",
   "scripts": {
